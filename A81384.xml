@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Devils reign upon earth, being a relation of several sad and bloudy murthers lately committed, especially that of Sir Geo. Sands his son, upon his own brother; set forth that others may be terrified from the like thereby, the like being never known in any age before.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81384</idno>
+            <idno type="STC">Wing D1229</idno>
+            <idno type="STC">Thomason E1646_4</idno>
+            <idno type="STC">ESTC R209090</idno>
+            <idno type="EEBO-CITATION">99867992</idno>
+            <idno type="PROQUEST">99867992</idno>
+            <idno type="VID">170209</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170209)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1646[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Devils reign upon earth, being a relation of several sad and bloudy murthers lately committed, especially that of Sir Geo. Sands his son, upon his own brother; set forth that others may be terrified from the like thereby, the like being never known in any age before.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Andrews,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcuts on title page and on verso of final leaf.</note>
+                  <note>Annotation on Thomason copy: "Sands Relation"; "August 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sondes, George, d. 1655 --  Early works to 1800.</term>
+               <term>Sondes, Freeman, 1635 or 6-1655 --  Early works to 1800.</term>
+               <term>Fratricide --  England --  Early works to 1800.</term>
+               <term>Devil --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170209:1" rendition="simple:additions"/>
+            <p>The DEVILS REIGN upon EARTH, Being a Relation of ſeveral ſad and bloudy Murthers lately committed, eſpecially that of Sir <hi>Geo. Sands</hi> his Son, upon his own Brother; ſet forth that others may be terrified from the like thereby, the like be<g ref="char:EOLhyphen"/>ing never known in any Age before.</p>
+            <q>
+               <bibl>Epheſ. 4. 26.</bibl> 
+               <p>Be angry, and ſin not, neither give place to the Devil. For the Devil is come down having great wrath, knowing shat his time is but ſhort. And power was given him to take peace from the earth, and that they ſhould kill one ano<g ref="char:EOLhyphen"/>ther.</p> 
+               <bibl>Revel. 12. 11, &amp; 6. 4.</bibl>
+            </q>
+            <figure>
+               <figDesc>a rampant devil</figDesc>
+            </figure>
+            <p>
+               <add>Auguſt 21</add> London, Printed for <hi>Iohn Andrews,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170209:2"/>
+            <pb n="1" facs="tcp:170209:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He mind of man being corrup<g ref="char:EOLhyphen"/>ted by <hi>Adams</hi> fall, is very apt and prone to be deluded by Satan, as wofull experience in all ages hath ſufficiently teſti<g ref="char:EOLhyphen"/>fied; but more eſpecially in this laſt and worſt age of the world, the Devil hath ever been a buſie-body: he hath never been idle; no ſooner had God created man and wo<g ref="char:EOLhyphen"/>man, but the Devil tempts them to diſobey the commands of God, and prevails, and by that fall of our firſt parents, he hath gotten ground upon all mankind, ſo that they are taken captive by him at his wil: and having gotten power over the ſons of men, he is very buſie to improve it, and like a cunning ſophiſter, oftentimes doth, to the ruine of themſelves and others. This he doth when he inſtigates men on to deſtroy themſelves by murthering of others, wherein no age can compare with this for ſad examples.</p>
+            <p>
+               <pb n="2" facs="tcp:170209:3"/>
+In <hi>Gen.</hi> 4. we read how wicked <hi>Cain</hi> by the inſtigation of Satan, and the corruption of his own heart, ſlew his own brother <hi>A<g ref="char:EOLhyphen"/>bel;</hi> ſurely the Divel is very powerfull, when there were but three men, he could deſtroy two of them, the body of <hi>Abel,</hi> and both body and ſoul of <hi>Cain,</hi> who for that wicked murther was mace a Vagabond all his days, and perpetually branced with the infamous name of murtherèr.</p>
+            <p>The beloved Diſciple of Chriſt, S. <hi>Iohn,</hi> exhorting Chriſtians to love one another, in his Epiſtles, in chap. 3. ſets forth the dif<g ref="char:EOLhyphen"/>ference between the children of God and the children of the Devil, <hi>In this</hi> (ſaith he) <hi>the children of God are manifeſt, and the children of the Devil; who ſo doth not righ<g ref="char:EOLhyphen"/>teouſneſs is not of God, neither he that loveth not his brother. For this is the meſſage that ye heard from the beginning, that we ſhould love one another. Not as Cain, who was of that wicked one, and ſlew his brother:</hi> and wherefore ſlew he him? <hi>Becruſe his own works were evil, and his brothers good.</hi> By which it appears, that it is the Devil that a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imates men on to murther; <hi>For he was a
+<pb n="3" facs="tcp:170209:3"/>
+murtherer from the beginning,</hi> ſaith Chriſt, <hi>Ioh.</hi> 8. 44. O that men were wiſe, that they would conſider their latter end; for did men conſider when they deſtroy and mur<g ref="char:EOLhyphen"/>ther others, that they murther their owne ſouis, and bring themſelves to untimely ends, there would not be ſuch frequent and horrid murthers as now there are.</p>
+            <p>But the Devil fils men with a revenge<g ref="char:EOLhyphen"/>full ſaith, and keeps them ignorant of this, until they have committed their intended murther, and then he leaves them to be pu<g ref="char:EOLhyphen"/>riſhed, either by the Laws of men, or elſe poſſeſſes them with wrerched thoughts of ceſtroying themſelves, as may be ſeen in this following Relation.</p>
+            <div type="part">
+               <argument>
+                  <p>A perfect and full Relation of the ſad and hainous murther committed at <hi>Shelvidge. less</hi> in <hi>Kent,</hi> near <hi>Feverſham,</hi> by Sir <hi>Geo Sands</hi> his youngeſt ſon, upon the body of his own and onely brother, on the 6 of August laſt, 1655. for which bloudy Fact he was condemned to die at <hi>Maidſtone</hi> the 15 o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:170209:4"/>
+the ſame; by which the Knight their Fa<g ref="char:EOLhyphen"/>ther is bereaved of both his Children, and no Heir left to inherit his great Eſtate.</p>
+               </argument>
+               <p>
+                  <hi>SIr George Sands of Shelvidg-lees</hi> in <hi>Kent</hi> near unto <hi>Fever ſham,</hi> a man wel known not onely in <hi>Kent,</hi> but alſo in <hi>London,</hi> and other places, and a man of a very great E<g ref="char:EOLhyphen"/>ſtate, having onely two ſons, and no other children; on Munday the <hi>6th.</hi> of <hi>Auguſt,</hi> 1655. at night, the youngeſt ſo moſt un<g ref="char:EOLhyphen"/>naturally murthered his Brother in his bed with a Cleaver, the manner how, was as followeth.</p>
+               <p>The eldeſt of theſe two Gentlemen ha<g ref="char:EOLhyphen"/>ving taken to wife one Miſtris <hi>Delain,</hi> a ve<g ref="char:EOLhyphen"/>ry handſom Gentlewoman, but of no great fortune, conſidering the great eſtate he was likely to enjoy, and not having the conſent of his father thereunto, he was perſwaded from her (as it is ſaid) by his father, who promiſed him, upon condition he would leave her, to ſettle the greateſt part of the Estate upon him, and to leave but little thereof ſo his brother, who ſhould be as it were ſublervient to him. Now upon this
+<pb n="5" facs="tcp:170209:4"/>
+temptation he was induced to obey men rather then God; for the Scripture ſaith, <hi>what God hath joyned together, let not man put aſunder.</hi> And <hi>Let not the Husband put away his Wife,</hi> ſaith <hi>S Paul, 1 Cor.</hi> 7. 12.</p>
+               <p>Now after this, the Knight their father arrayed them both in two very rich ſuits of apparel, both alike: now it ſo happened that the elder Brother had by ſome acci<g ref="char:EOLhyphen"/>dent ſoiled his Dublet, and there upon on the the next morning, he would have put on his younger Brothers Dublet, and left him the ſoiled one, which he unwilling to do, refuſed the ſame. Which when the Kr. their Father heard of, and ſeeing them in contention about it, commanded his youn<g ref="char:EOLhyphen"/>ger ſon to ſubmit to his elder Brother Up on this, the young Gentleman conceiving his elder Brother to be more affected by his Father then himſelf, was greatly mo<g ref="char:EOLhyphen"/>ved, and urged upon the ſame, and ſo reſol<g ref="char:EOLhyphen"/>ved one way or other to be revenged.</p>
+               <p>Being in this diſtracted and diſturbed condition, the Devil, <hi>who goes about like a roaring Lion, ſeeking whom he may devour,</hi> took advantage of his revengefull thoughts
+<pb n="6" facs="tcp:170209:5"/>
+and intents, poſſeſſed him with the thoughts of murther. Which he concealing ſtil har<g ref="char:EOLhyphen"/>boured in his breaſt, although it was little ſuſpected; yet for a while, the ſpace of three moneths, he had not opportunity to do, although he had ſecretly laid wait to do it; and for that purpoſe had ſecretly con<g ref="char:EOLhyphen"/>veyed out of the Kitchin the fatal inſtru<g ref="char:EOLhyphen"/>ment, a Cleaver, with which he did the Fact.</p>
+               <p>The Maides miſſing this Cleaver, ſought after, but could not find it, and ſo ſuppoſed ſome one or other had ſtolen it; but he had conveyed the ſame into the bottome of his cheſt, where he kept it pri<g ref="char:EOLhyphen"/>vately till Munday the 6 of Auguſt, 1655. at night: at which time the Devil appear<g ref="char:EOLhyphen"/>ing to him, he took it, and as his brother lay in his bed aſleep, not miſtruſting any thing, he cleſt in ſunder his head there with; after which, the Devil bidding him to make uſe work, he run his ſword ſeveral times moſt barbarouſly into his body.</p>
+               <p>Now the Devil having effected this wic-ed work, ſtraight way poſſeſſed him with eſperate thoughts of being his own Exe<g ref="char:EOLhyphen"/>cutioner,
+<pb n="7" facs="tcp:170209:5"/>
+bidding him deſtroy himſelf: Who immediately went to his Fathers chamber with his hands all bloud, and told him how that he had murthered his bro<g ref="char:EOLhyphen"/>ther, and was now going to deſtroy him<g ref="char:EOLhyphen"/>ſelf: Who being greatly affrighted, imme<g ref="char:EOLhyphen"/>diately ſtarted up, and laid hold of him, and to his great grief and lamentation, found it to be ſo indeed. Whereupon he was ap<g ref="char:EOLhyphen"/>prehended, and ſent to Maidſtone, where he was condemned to die the 15th. of Auguſt, 1655.</p>
+               <p>Theſe Gentlemen were well beloved in the place whete their Father lives, both by rich and poor, who now do greatly lament this ſad and moſt unhapp accident.</p>
+            </div>
+            <div type="part">
+               <head>Here follews another Relation of ſeveral ſtrange murthers lately committed.</head>
+               <p>ONe Miſtris <hi>Grace Griſſin</hi> by name, but indeed Graceleſs by this odious action of hers, a Silk throwſters wife in the Borough of <hi>Southwark,</hi> one who lived
+<pb n="8" facs="tcp:170209:6"/>
+in good repute and faſhion; her Husband being troubled with a cold, deſired her to fetch him ſome Hony, and give him; which ſhe did, and put poiſon therein, and ſo poi<g ref="char:EOLhyphen"/>ſoned him: For which Fact ſhe was bur<g ref="char:EOLhyphen"/>ned to death according to the Law, at <hi>King<g ref="char:EOLhyphen"/>ſton</hi> upon <hi>Thames,</hi> the 6th. of Auguſt laſt, 1655.</p>
+               <p>Alſo there were excuted at the ſame time there, three other Women for ſeveral murthers. One of them quarrelling with another woman, violently thruſt a Napkin down her throat and choaked her. Another was for beating out the brains of her own child with a Hammer: the other alſo was for wilfull murther.</p>
+               <p>Likewiſe on the 6. of <hi>Auguſt</hi> laſt, there were two Milk-women as they were going along the fields near S <hi>Gileſes,</hi> there they ſaw a woman going very ſaintly along, and going to her to ſee what the matter was, they eſpied a new born child in her apron, which ſhe confeſt ſhe was going purpoſe<g ref="char:EOLhyphen"/>ly to make it away, and did attempt it ſeve<g ref="char:EOLhyphen"/>ral times, but had not the power to do it, and ſo was prevented.</p>
+            </div>
+            <div type="part">
+               <pb n="9" facs="tcp:170209:6"/>
+               <head>A Relation of a ſad accident that hapned in Sea-coal Lane in <hi>London.</hi>
+               </head>
+               <p>On Saturday night the 11 of <hi>Auguſt,</hi> 1655. ſeveral workmen being at work in Seacoal-Lane, intending to let an Houſe of Office into the Common-ſhore, and when they had made way for it, they unſtopping the vent, it brake out ſo violently upon them, that it ſtrook them down, and the candle being out, one of the maſter-workmen was ſtifled to death.</p>
+               <p>Several other ſtrange murthers have bin committed of late, ſuch as no ageever knew the like before, of which this following is one.</p>
+            </div>
+            <div type="section">
+               <argument>
+                  <p>A true Relation of a great and bloudy Mur<g ref="char:EOLhyphen"/>ther committed at <hi>Penard</hi> in <hi>Somerſet<g ref="char:EOLhyphen"/>ſhire,</hi> near <hi>Lidford,</hi> where on the 1 of Au<g ref="char:EOLhyphen"/>guſt <hi>1655.</hi> were murthered four children together by their own mother.</p>
+               </argument>
+               <p>UPon the firſt day of <hi>Auguſt</hi> laſt paſt, there being a fair at a place called <hi>Lid<g ref="char:EOLhyphen"/>ford</hi>
+                  <pb n="10" facs="tcp:170209:7"/>
+in <hi>Somerſetſhire,</hi> a Carpenter that li<g ref="char:EOLhyphen"/>ved at <hi>Penard</hi> near thereunto, went thither to ſet up ſtandings, leaving his wile, and four ſmall Children at home, the eldeſt of which was nine years of age: But at his return home, hee found all his four chil<g ref="char:EOLhyphen"/>dren murthered, and put into a Cheſt. It is ſupoſed that his Wife did this bloudy act, by reaſon ſhe is not to be found.</p>
+               <p>Now having given you a ſhort, but ſad Relation of ſeveral ſad accidents, I think a word or two of Chriſtian admonition will not be unſeaſonable.</p>
+               <p>O that every one that hears this ſad, but true Relation, would fear the Lord, and abhor ſuch bloudy action, and take heed to themſelves, leſt they alſo be deluded by Satan; for he hath many ſleights and devi<g ref="char:EOLhyphen"/>ſes to deſtroy poor ſouls.</p>
+               <p>If men would but faithfully and con<g ref="char:EOLhyphen"/>ſtantly ſerve the Lord, and walk according to his Commandements, there would not be ſo many ſtrange and ſad accidents to be heard of every day, as now there are: For
+<pb n="11" facs="tcp:170209:7"/>
+when men, for want of Grace, do for ſake God, God doth juſtly for ſake them; and then the Devil enters into them, and carti<g ref="char:EOLhyphen"/>eth them forth into all manner of wicked<g ref="char:EOLhyphen"/>neſs.</p>
+               <p>If men would but practiſe goodneſs, and reſiſt the Devill by the ſtrength of Grace, hee would ſoon flee away from them, as Saint <hi>Iames</hi> ſaith, for he is a pro<g ref="char:EOLhyphen"/>feſſed enemy to all goodneſs. And though his fingers itch to be tampering with thoſe that are good, yet is ſure only to take thoſe in his ſnare who forſake the Lord; for thoſe that faithfully ſerve the Lord, and fear him with their whole heart, God hath promiſed to keep them, and will aſſuredly do it.</p>
+               <p>The Devil deals with men as the Panther doth with beaſts, he hideth his deformed head till he hath with his ſweet ſent drawn them into his clutches. When the Devil firſt tempts to ſin, he ſhews himſelf like a Paraſite, a meer flatterer; but when men have once fulfilled his deſires, he will ſoon ſhew himſelf what he is, a roaring Lion, a deſtroying Serpent: at firſt he tempts men
+<pb n="12" facs="tcp:170209:8"/>
+into little ſins, and then having drawn them to that, he tempts them to greater; as he did this young Gentleman Mr. <hi>Sands,</hi> firſt poſſeſſing him with revengefull thoughts, then having filled him with that, ends his deſign with murther.</p>
+               <p>When a man begins to ſin, he knows not where or when he ſhall end; for the Devil is cunning, and wil draw men if they be but once deluded by him, from one degree of ſin to another, from anger to wrath, from wrath to malice and envy, from malice and envy to inhumane murther, and ſo utterly deſtroys them, without the great mercy of God. Little ſins it may be have but little temptations; but its deviliſh to ſin either with or without temptation: therefore when the Devil tempts to ſin, and ſaith, Do this, tis but a little one; let us ſay, It is a very great unkindneſs againſt God, to yeeld unto the leaſt ſin, <hi>Be angry, and ſin not,</hi> ſaith the Apoſtle; do not yeeld in the leaſt unto Satan, if thou doeſt, thou art undone for e<g ref="char:EOLhyphen"/>ver; for he will thereby get advantage a<g ref="char:EOLhyphen"/>gainſt you.</p>
+               <p>The Devil tempting a young man to one
+<pb n="13" facs="tcp:170209:8"/>
+of theſe three ſins, either to kill his Father, or elſe to lie with his mother, or elſe to be drunk; he thinking to yeeld to the leſſer, namely to be drunk, that thereby he might (as he conceived) be freed from the other, which no doubt were then odious in his eys, he yeelded to the Devil to be drunk, and then being drunk, he firſt killed his father, and after committed abomination with his mother.</p>
+               <p>Now the Lord help every one that de<g ref="char:EOLhyphen"/>ſires to fear the Lord, conſtantly to avoid all occaſions of ſin: which that we may all do, the grace of God, and the God of all grace ſo keep and direct us in all our ways, that ſo we may be kept from the power and rule of Satan, and from the reign and dominion of ſin, and from an irrevocable downfall into hell for evermore; and give us all grace ſo to live here, that we may live for ever hereafter.</p>
+            </div>
+            <closer>Amen.</closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>The plain mans plain Path way to Heaven,</hi> di<g ref="char:EOLhyphen"/>recting every one how they may be ſaved; very ute<g ref="char:EOLhyphen"/>full in theſe times of temptation, and is but of two pence price: Is to be ſold by <hi>Iohn Andrews,</hi> at the White Lyon in the Old. Bayly.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:170209:9"/>
+            <p>As <hi>Cain</hi> ſlew his brother <hi>Abel,</hi> ſo now doth men and women kill and murther one another, the Father and Mother their own Children, and one Brother another.</p>
+            <p>
+               <figure>
+                  <figDesc>sacrificial lamb</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>Cain murdering Abel</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>Accurſed <hi>Cain,</hi> the firſt to murther bent,</l>
+               <l>Did ſeek, yet never could obtain for to repent</l>
+               <l>But now, like <hi>Fudaſſes,</hi> men kill and ſlay</l>
+               <l>Their deareſt Friends, the Devil to obey.</l>
+            </lg>
+         </div>
+      </back>
+   </text>
+</TEI>
